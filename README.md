@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <a href="#!" style="color: #757575; font-size: 14px;">JS Expert Drive</a>
+  <a href="#!" style="text-decoration: none; color: #757575; font-size: 14px;">JS Expert Drive</a>
 <br>
 <br>
 Semana JS Experts
