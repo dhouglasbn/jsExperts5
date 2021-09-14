@@ -32,7 +32,7 @@ This app features all the latest tools and practices in mobile development!
 
 ## Getting started
 
-1. Clone this repo using `git clone https://github.com/dhouglasbn/NLW-together.git`
+1. Clone this repo using `git clone https://github.com/dhouglasbn/jsExperts5.git`
 
 ## Getting started with server
 
