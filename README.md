@@ -36,7 +36,7 @@ This app features all the latest tools and practices in mobile development!
 
 ## Getting started with server
 
-1. Move yourself to the appropriate directory choosing corresponding class(01, 02 or 03): `cd aula<class>/gdrive-webapi`<br />
+1. Move yourself to the appropriate directory choosing corresponding class(01, 02 or 03): `cd aula03/gdrive-webapi`<br />
 2. Run `npm ci --silent` to install dependencies<br />
 3. run `npm start` in the terminal.
 4. run `npm run test:cov` in the terminal to run all tests with coverage
