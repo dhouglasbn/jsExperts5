@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <a href="#!" style="text-decoration: none; color: #757575; font-size: 14px;">JS Expert Drive</a>
+  JS Expert Drive
 <br>
 <br>
 Semana JS Experts
@@ -33,10 +33,13 @@ This app features all the latest tools and practices in mobile development!
 ## Getting started
 
 1. Clone this repo using `git clone https://github.com/dhouglasbn/NLW-together.git`
-2. Move yourself to the appropriate directory choosing corresponding class: `cd aula"class"`<br />
-3. Run `npm ci --silent` to install dependencies<br />
 
-8. run `npm start` in the terminal.
+## Getting started with server
+
+1. Move yourself to the appropriate directory choosing corresponding class(01, 02 or 03): `cd aula<class>/gdrive-webapi`<br />
+2. Run `npm ci --silent` to install dependencies<br />
+3. run `npm start` in the terminal.
+4. run `npm run test:cov` in the terminal to run all tests with coverage
 
 ## License
 
