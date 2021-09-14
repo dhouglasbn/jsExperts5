@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://svgshare.com/i/YZC.svg" alt="LetMeAsk">
+  <a href="#!" style="color: #757575; font-size: 14px;">JS Expert Drive</a>
 <br>
 <br>
 Semana JS Experts
@@ -15,7 +15,7 @@ Semana JS Experts
 </p>
 
 <div align="center">
-  <img src="https://i.ibb.co/Y83ycDW/Home.png" alt="Tela da home da página" >
+  <img src="./demo.gif" alt="site example" />
 </div>
 
 <hr />
