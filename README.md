@@ -6,7 +6,7 @@
 Semana JS Experts
 </h1>
 
-<p align="center">A project builded during JS Experts Week classes, with erick wendel</p>
+<p align="center">A project builded during JS Experts Week classes, with <a href="https://github.com/ErickWendel" >Erick Wendel</a></p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
